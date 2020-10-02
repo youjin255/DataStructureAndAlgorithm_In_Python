@@ -14,3 +14,6 @@ The algorithm contains in this file :
 - **heapsort.py** is through heap heap to sort
 - **mergesort.py** 
 - **Quicksort.py**
+- **ShellSort.py**
+- **Counting Sort.py**
+- **Selection Sort.py**
